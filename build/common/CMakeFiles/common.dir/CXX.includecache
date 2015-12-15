@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/lemaitrecedric/Documents/learning/test_gdb/src/common/dummy.cpp
+dummy.h
+/Users/lemaitrecedric/Documents/learning/test_gdb/src/common/dummy.h
+iostream
+-
+
+/Users/lemaitrecedric/Documents/learning/test_gdb/src/common/dummy.h
+
